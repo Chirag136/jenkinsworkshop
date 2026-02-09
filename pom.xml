@@ -1,0 +1,10 @@
+<project xmlns="https://apache.maven.org/POM/4.0.0"
+<modelVersion>4.0.0</modelVersion>
+<groupid>com.example</groupid>
+<artifactid>demo</artifactid>
+<version>1.0</version>
+<packaging>jar</packaging>
+<properties>
+<maven.compiler.release>17</maven.compiler.release>
+</properties>
+</project>
